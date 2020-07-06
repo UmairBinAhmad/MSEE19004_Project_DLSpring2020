@@ -3,3 +3,10 @@
 http://im.itu.edu.pk/deep-learning-spring-2020/
 ## Results:
 This project creates avatars of pakistani people from their images. This uses AttentionGan model for genetrating avatars of people. Results we obtained are given below. 
+![Image 1](https://github.com/makramhamad/MSEE19018_Project_DLSpring2020/blob/fab9221d27a646178ec1308b95986f1aa1e8df13/R1.png)
+
+![Image 2](https://github.com/makramhamad/MSEE19018_Project_DLSpring2020/blob/fab9221d27a646178ec1308b95986f1aa1e8df13/R2.png)
+
+![Image 3](https://github.com/makramhamad/MSEE19018_Project_DLSpring2020/blob/fab9221d27a646178ec1308b95986f1aa1e8df13/R3.png)
+
+![Image 4](https://github.com/makramhamad/MSEE19018_Project_DLSpring2020/blob/fab9221d27a646178ec1308b95986f1aa1e8df13/R4.png)
